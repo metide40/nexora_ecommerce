@@ -79,3 +79,4 @@ The suite covers products, authentication, favorites, orders (including security
 ## Notes
 - Product images are loaded from Unsplash, so an internet connection is needed to see them.
 - The API address is set in `nexora-frontend/js/api.js`.
+- Built with Django, PostgreSQL, and a responsive frontend.
